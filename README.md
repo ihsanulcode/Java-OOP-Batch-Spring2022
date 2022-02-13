@@ -1,2 +1,3 @@
 # Java-OOP-Batch-Spring2022
-[GitHub Pages](https://pages.github.com/)
+[Dataque Academy](https://facebook.com/dataque.academy)
+[Java & OOP Course Outline](https://docs.google.com/document/d/1jiUvFrETDkFm6Glk5X2XYTvA8X_YgcMDcyCyDzPv6cY/edit?usp=sharing)
